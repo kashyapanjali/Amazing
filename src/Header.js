@@ -14,7 +14,7 @@ export default function Header() {
       auth.signOut();
     }
   };
-
+  // start the function
   return (
     <div className="header">
       <Link to="/">
